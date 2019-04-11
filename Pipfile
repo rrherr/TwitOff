@@ -11,6 +11,9 @@ flask-sqlalchemy = "*"
 tweepy = "*"
 basilica = "*"
 python-dotenv = "*"
+jupyter = "*"
+scikit-learn = "*"
+tqdm = "*"
 
 [requires]
 python_version = "3.7"
